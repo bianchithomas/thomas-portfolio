@@ -38,7 +38,7 @@ public class Account {
 
 	// Creating a withdraw method. THis method will take in an amount variable.
 
-	public void withdraw(int amount) {
+	public void withdraw(int amount) {  
 
 		if (amount != 0) {
 
