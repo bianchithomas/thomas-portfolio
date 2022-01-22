@@ -25,7 +25,11 @@ public class Account {
 
 		if (amount != 0) {
 
+
 			balance += amount; 
+
+			balance += amount;
+
 
 			previousTrans = amount;
 		}
